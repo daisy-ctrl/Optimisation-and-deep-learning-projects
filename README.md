@@ -1,3 +1,3 @@
 # Optimisation-and-deep-learning-projects
 Projects done over the course of the ODL module. 
-Assignment code consists of an artificial come deep neural network. It is for predictive analysis of credit card defaulters
+Assignment code consists of an artificial come deep neural network. It is for predictive analysis of credit card defaulters. Lab 2 shows various data visualizations. Lab 3 contains data preprocessing codes. Lab 4 has Linear Regression Using Analytical Approach. It involves the Fiting of Regression lines for both train and test data and compares their RSS. It also estimates target variable for unseen independent variables. Gradient minimizing error using close form solution.Lab 6 is on linear regression. Regression-main file shows linear and logistic regression practices.
